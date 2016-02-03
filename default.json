@@ -1,12 +1,59 @@
-[
-	{
-		"header": {
-
-		}
-	},
-	{
-		"footer": {
-
-		}
-	}
-]
+{
+  "components": [
+    {
+      "name": "header"
+    },
+    {
+      "name": "logo",
+      "data": {
+        "url": "",
+        "alt": "Logo",
+        "src": "http://placehold.it/200x50"
+      }
+    },
+    {
+      "name": "body-open"
+    },
+    {
+      "name": "hero-image",
+      "data": {
+        "url": "",
+        "alt": "",
+        "src": "http://placehold.it/600x250"
+      }
+    },
+    {
+      "name": "one-column-open"
+    },
+    {
+      "name": "paragraph",
+      "data": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    },
+    {
+      "name": "line-break"
+    },
+    {
+      "name": "button",
+      "data": {
+        "url": "http://www.google.com/",
+        "text": "Click this button"
+      }
+    },
+    {
+      "name": "one-column-close"
+    },
+    {
+      "name": "body-close"
+    },
+    {
+      "name": "footer",
+      "data": {
+        "companyname": "Your Company Name",
+        "companyaddress": "123 Somewhere St., Metrocity, NY, 12345",
+        "companyphone": "(123) 456-7890"
+      }
+    }
+  ]
+}
